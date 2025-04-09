@@ -18,4 +18,4 @@ Java
 
 >First thing first I started by git clone command
 
-![git clone command](SeyedShams/clone.png)
+![git clone command]([SeyedShams/clone.png](https://github.com/AmirrezaSH007/SeyedShams/blob/main/Clone.png))
