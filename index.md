@@ -43,3 +43,35 @@ Java
 
 
 #### For the second part of the lab, I created some files such as `.gitignore` and `PRIVATE.txt`
+>The steps are as follows:
+
+1. I created **PRIVATE.txt**
+   -then wrote my full name and PID number in this file
+2. Then I created another file called **.gitignore**
+   -this file ignores the files which are given to it
+      -then I wrote **PRIVATE.txt** in the file
+3. I used the **Source Control**
+   -using Source control helps staging the changes, commit and push the changes I made to files in my repo
+
+>The following picture shows the exact step before I hit the commit button:
+
+<img width="262" alt="Image" src="https://github.com/user-attachments/assets/ee0dcbde-e79b-41dd-83b0-60589f242426" />
+
+
+###Checklist for what I did throughout this whole process:
+
+>For Part 1:
+- [x] Using git clone command
+- [x] Creating new git branch called add-read-me
+- [x] Writing my name to README.md
+- [x] Adding the new file to git
+- [x] Commiting the changes using commit command and "Update readme file" as the message
+- [x] Pushing the commit to the remote branch
+- [x] taking screenshots of the 6 steps
+
+>For part 2:
+- [x] Created 'PRIVATE.txt'
+- [ ] Wrote my full name and PID in PRIVATE.txt
+- [ ] Created a file called ".gitignore"
+
+      
