@@ -14,7 +14,7 @@ Java
 [My full name](README.md)
 
 
-### Part 1: The process of git commands:
+### Part 1
 
 >First thing first I started by git clone command
 
@@ -61,7 +61,7 @@ Java
 # Checklist for what I did throughout this whole process:
 #### To check the process of each check marked you can click on the for the relevant part to take to the start of the process.
 
-Link to part 1: [Link Text](#Part-1:-The-process-of-git-commands:)
+Link to part 1: [Link](#Part-1)
 >For Part 1:
 - [x] Using git clone command
 - [x] Creating new git branch called add-read-me
