@@ -55,6 +55,7 @@ Java
 
 >The following picture shows the exact step before I hit the commit button:
 
+<img width="633" alt="Image" src="https://github.com/user-attachments/assets/54a1466b-18ad-45b6-b202-3c9297f0df61" />
 
 ![](https://github.com/AmirrezaSH007/SeyedShams/blob/main/SourceControl.png)
 
