@@ -14,4 +14,7 @@ Java
 [My full name](README.md)
 
 
+### The process of git commands:
 
+>First thing first I started by git clone command
+![git clone command](clone.png)
