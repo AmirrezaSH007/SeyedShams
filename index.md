@@ -18,4 +18,4 @@ Java
 
 >First thing first I started by git clone command
 
-![git clone command](/assets/images/clone.png)
+<img width="633" alt="Image" src="https://github.com/user-attachments/assets/bc46902d-7b9c-4273-b761-d9f677e54871" />
