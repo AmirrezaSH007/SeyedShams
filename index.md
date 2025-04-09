@@ -60,18 +60,21 @@ Java
 
 ###Checklist for what I did throughout this whole process:
 
-For Part 1:
+>For Part 1:
 - [x] Using git clone command
 - [x] Creating new git branch called add-read-me
-- [x] Writing my name to README.md
+- [x] Writing my name to `README.md`
 - [x] Adding the new file to git
-- [x] Commiting the changes using commit command and "Update readme file" as the message
+- [x] Commiting the changes using commit command and `Update readme file` as the message
 - [x] Pushing the commit to the remote branch
 - [x] taking screenshots of the 6 steps
 
-For part 2:
-- [x] Created 'PRIVATE.txt'
-- [ ] Wrote my full name and PID in PRIVATE.txt
-- [ ] Created a file called ".gitignore"
+>For part 2:
+- [x] Created `PRIVATE.txt`
+- [ ] Wrote my full name and PID in `PRIVATE.txt`
+- [ ] Created a file called `.gitignore`
+- [ ] Wrote `PRIVATE.txt` in `.gitignore`
+- [ ] Using Source Control
+- [ ] Staged the changes, commit and pushed the changes
 
       
