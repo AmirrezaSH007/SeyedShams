@@ -4,7 +4,7 @@
 
 *This site was built using [GitHub](https://pages.github.com/)*
 
-### my favorite programming languages are as follows
+### my favorite programming languages are:
 ```
 C++
 Java
