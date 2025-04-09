@@ -40,3 +40,4 @@ Java
 
 <img width="633" alt="Image" src="https://github.com/user-attachments/assets/51d7b1de-2a8c-4c8c-8dd9-86e3580b5048" />
 
+##For the second part of the lab, I created some files such as `.gitignore` and `PRIVATE.txt`
