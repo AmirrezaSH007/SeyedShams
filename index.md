@@ -14,7 +14,7 @@ Java
 [My full name](README.md)
 
 
-### Part 1
+# Part 1
 
 >First thing first I started by git clone command
 
@@ -41,7 +41,7 @@ Java
 <img width="633" alt="Image" src="https://github.com/user-attachments/assets/51d7b1de-2a8c-4c8c-8dd9-86e3580b5048" />
 
 
-
+# Part 2
 #### For the second part of the lab, I created some files such as `.gitignore` and `PRIVATE.txt`
 >The steps are as follows:
 
@@ -61,7 +61,7 @@ Java
 # Checklist for what I did throughout this whole process:
 #### To check the process of each check marked you can click on the for the relevant part to take to the start of the process.
 
-Link to part 1: [Link](#Part-1)
+Link to part 1: [](#Part-1)
 >For Part 1:
 - [x] Using git clone command
 - [x] Creating new git branch called add-read-me
@@ -71,6 +71,7 @@ Link to part 1: [Link](#Part-1)
 - [x] Pushing the commit to the remote branch
 - [x] taking screenshots of the 6 steps
 
+Link to part 2: [](#Part-2)
 >For part 2:
 - [x] Created `PRIVATE.txt`
 - [x] Wrote my full name and PID in `PRIVATE.txt`
