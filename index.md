@@ -61,7 +61,7 @@ Java
 # Checklist for what I did throughout this whole process:
 #### To check the process of each check marked you can click on the for the relevant part to take to the start of the process.
 
-Link to part 1: [](#Part-1)
+Link to part 1: [Link](#Part-1)
 >For Part 1:
 - [x] Using git clone command
 - [x] Creating new git branch called add-read-me
@@ -71,7 +71,7 @@ Link to part 1: [](#Part-1)
 - [x] Pushing the commit to the remote branch
 - [x] taking screenshots of the 6 steps
 
-Link to part 2: [](#Part-2)
+Link to part 2: [Link](#Part-2)
 >For part 2:
 - [x] Created `PRIVATE.txt`
 - [x] Wrote my full name and PID in `PRIVATE.txt`
