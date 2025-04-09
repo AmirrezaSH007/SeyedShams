@@ -1,6 +1,7 @@
 # Welcome
 
 Hello, this is Seyed but I go by Amir, and I'm a math/CS student.
+This site was built using [GitHub](https://pages.github.com/)
 
 ### my favorite programming languages are as follows
 ```
@@ -8,7 +9,8 @@ Hello, this is Seyed but I go by Amir, and I'm a math/CS student.
 **Java
 ```
 
-### My full name can be found in the following link
+### To see my full name, click on the following link
+[My full name](README.md)
 
-**[My full name](README.md)
+
 
