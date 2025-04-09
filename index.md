@@ -46,12 +46,12 @@ Java
 >The steps are as follows:
 
 1. I created **PRIVATE.txt**
-   -then wrote my full name and PID number in this file
+-then wrote my full name and PID number in this file
 2. Then I created another file called **.gitignore**
-   -this file ignores the files which are given to it
-      -then I wrote **PRIVATE.txt** in the file
+-this file ignores the files which are given to it
+-then I wrote **PRIVATE.txt** in the file
 3. I used the **Source Control**
-   -using Source control helps staging the changes, commit and push the changes I made to files in my repo
+-using Source control helps staging the changes, commit and push the changes I made to files in my repo
 
 >The following picture shows the exact step before I hit the commit button:
 
