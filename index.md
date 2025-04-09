@@ -56,9 +56,11 @@ Java
 >The following picture shows the exact step before I hit the commit button:
 
 <img width="262" alt="Image" src="https://github.com/user-attachments/assets/ee0dcbde-e79b-41dd-83b0-60589f242426" />
+![](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/AmirrezaSH007/SeyedShams/blob/main/Sourcecontrol.md)
 
+# Checklist for what I did throughout this whole process:
+#### To check the process of each check marked you can click on the for the relevant part to take to the start of the process.
 
-###Checklist for what I did throughout this whole process:
 
 >For Part 1:
 - [x] Using git clone command
@@ -71,10 +73,21 @@ Java
 
 >For part 2:
 - [x] Created `PRIVATE.txt`
-- [ ] Wrote my full name and PID in `PRIVATE.txt`
-- [ ] Created a file called `.gitignore`
-- [ ] Wrote `PRIVATE.txt` in `.gitignore`
-- [ ] Using Source Control
-- [ ] Staged the changes, commit and pushed the changes
+- [x] Wrote my full name and PID in `PRIVATE.txt`
+- [x] Created a file called `.gitignore`
+- [x] Wrote `PRIVATE.txt` in `.gitignore`
+- [x] Using Source Control
+- [x] Staged the changes, commit and pushed the changes
 
+>For part 3:
+- [x] Pictures
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section links
+- [x] Relative links 
+- [x] Ordered and Unordered Lists
+- [x] Task lists
       
