@@ -6,8 +6,8 @@ Hello, this is Seyed but I go by Amir, and I'm a math/CS student.
 
 ### my favorite programming languages are as follows
 ```
-**C++
-**Java
+C++
+Java
 ```
 
 ### To see my full name, click on the following link
