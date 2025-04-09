@@ -1,6 +1,6 @@
 # Welcome
 
-Hello, this is Seyed but I go by Amir, and I'm a math/CS student.
+>Hello, this is Seyed but I go by Amir, and I'm a math/CS student.
 
 *This site was built using [GitHub](https://pages.github.com/)*
 
