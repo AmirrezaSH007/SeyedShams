@@ -9,6 +9,6 @@ Hello, this is Seyed but I go by Amir, and I'm a math/CS student.
 ```
 
 ### My full name can be found in the following link
-```
-[My full name](README.md)
-```
+
+**[My full name](README.md)
+
