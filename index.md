@@ -56,7 +56,7 @@ Java
 >The following picture shows the exact step before I hit the commit button:
 
 
-![](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/AmirrezaSH007/SeyedShams/blob/main/Sourcecontrol.md)
+![](https://github.com/AmirrezaSH007/SeyedShams/blob/main/Sourcecontrol.md)
 
 # Checklist for what I did throughout this whole process:
 #### To check the process of each check marked you can click on the for the relevant part to take to the start of the process.
