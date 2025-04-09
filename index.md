@@ -60,7 +60,7 @@ Java
 
 ###Checklist for what I did throughout this whole process:
 
->For Part 1:
+For Part 1:
 - [x] Using git clone command
 - [x] Creating new git branch called add-read-me
 - [x] Writing my name to README.md
@@ -69,7 +69,7 @@ Java
 - [x] Pushing the commit to the remote branch
 - [x] taking screenshots of the 6 steps
 
->For part 2:
+For part 2:
 - [x] Created 'PRIVATE.txt'
 - [ ] Wrote my full name and PID in PRIVATE.txt
 - [ ] Created a file called ".gitignore"
