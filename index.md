@@ -55,7 +55,7 @@ Java
 
 >The following picture shows the exact step before I hit the commit button:
 
-<img width="262" alt="Image" src="https://github.com/user-attachments/assets/ee0dcbde-e79b-41dd-83b0-60589f242426" />
+
 ![](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/AmirrezaSH007/SeyedShams/blob/main/Sourcecontrol.md)
 
 # Checklist for what I did throughout this whole process:
