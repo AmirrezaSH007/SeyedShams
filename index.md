@@ -13,6 +13,7 @@ Java
 ### To see my full name, click on the following link
 [My full name](README.md)
 
+I used to be a professional chess player. I love soccer and playing soccer
 
 # Part 1
 
