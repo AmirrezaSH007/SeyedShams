@@ -27,14 +27,14 @@ I used to be a professional chess player. I love soccer and playing soccer
 
 ![IMG_6220 (1)](https://github.com/user-attachments/assets/3f4c3204-d7c6-4808-a0b1-d1c013a27c7d)
 
-##Things I love
+## Things I love
 
 1. I love to play chess
 2. I love soccer
 3. I love gaming
 4. I love coding
 
-##checklist
+## checklist
 - [x] Sense of humor
 - [x] Creative
 - [x] Friendly
