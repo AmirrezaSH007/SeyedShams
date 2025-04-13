@@ -1,7 +1,9 @@
 # Welcome
 
 >Hello, this is Seyed but I go by Amir, and I'm a math/CS student.
-Link to part 2: [Link](#My-interests)
+
+My interests: [Link](#My-interests)
+
 *This site was built using [GitHub](https://pages.github.com/)*
 
 ### my favorite programming languages are:
